@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kaivalyaf
 - 👀 I’m interested in Data science/analytics
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m data enthusiast
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me kaivalyaf@gmail.com
+- 📫 How to reach me ...kaivalyaf@gmail.com
 
 <!---
 Kaivalyaf/Kaivalyaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
